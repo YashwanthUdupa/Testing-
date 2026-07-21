@@ -7,10 +7,6 @@ function Test(){
         <h2>this is h2 tag</h2>
         <h3>this is h3 tag</h3>
         </div>
-
-
-
-
 }
 
 
