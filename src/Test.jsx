@@ -8,7 +8,4 @@ function Test(){
         <h3>this is h3 tag</h3>
         </div>
 }
-
-
-
 export default Test;
